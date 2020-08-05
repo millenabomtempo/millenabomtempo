@@ -1,16 +1,11 @@
-### Hi there 👋
+# Millena Brito Bomtempo
+  Sou uma entusiasta em programação. 
+  <br/>Estou sempre disposta a aprender coisas novas, pois creio que só conseguiremos ter um mundo melhor através do conhecimento.
 
-<!--
-**millenabomtempo/millenabomtempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎓 &nbsp; Aluna do 6º termo do curso Análise e Desenvolvimento de Sistemas da Fatec Ourinhos
+ <br/> :computer: &nbsp; Tenho conhecimento em HTML5/CSS, C e Java (que aprendi na faculdade)
+ <br/> :blue_book: &nbsp; Estou estudando: ReactJS, Node.js
+ <br/> 💬  &nbsp; Sobre mim: Amo meu doginho, novas tecnologias, seriados no Netflix e livros de fantasia. 
+ 
+ :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MillenaBomtempo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/millena-bomtempo/)](https://www.linkedin.com/in/millena-bomtempo/) 
+[![Gmail Badge](https://img.shields.io/badge/-millena.bomtempo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:millena.bomtempo@gmail.com)](mailto:millena.bomtempo@gmail.com)
