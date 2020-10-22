@@ -3,7 +3,7 @@
   <br/>Estou sempre disposta a aprender coisas novas, pois creio que só conseguiremos ter um mundo melhor através do conhecimento.
 
  🎓 &nbsp; Aluna do 6º termo do curso Análise e Desenvolvimento de Sistemas da Fatec Ourinhos
- <br/>:computer: &nbsp; Tenho conhecimento em HTML5/CSS, C e Java (que aprendi na faculdade)
+ <br/>:computer: &nbsp; Tenho conhecimento em HTML5/CSS, C e Java
  <br/>:blue_book: &nbsp; Estou estudando: ReactJS, Node.js
  <br/>💬 &nbsp; Sobre mim: Amo meu doginho, novas tecnologias, seriados no Netflix e livros de fantasia. 
  
